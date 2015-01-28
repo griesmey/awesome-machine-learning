@@ -97,6 +97,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [ccv](https://github.com/liuliu/ccv)
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+* [CXXNET](https://github.com/antinucleon/cxxnet) - Implementation of convolutional neural networks that run on the GPU/CPU
 
 #### General-Purpose Machine Learning
 
@@ -184,7 +185,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
-* [CXXNET](https://github.com/antinucleon/cxxnet) - convolutional neural net library built on top of mshadow which allows vectorized GPU computation
 
 ## Scala
 
