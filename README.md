@@ -300,6 +300,12 @@ on MNIST digits[DEEP LEARNING]
 * [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs. 
 * [gamic](http://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code) - Efficient pure-Matlab implementations of graph algorithms to complement MatlabBGL's mex functions.
 
+## Lua
+
+#### General-Purpose Machine Learning
+
+* [Torch](http://torch.ch) - Scientific computing framework with support for machine learning algorithms
+
 ## Julia
 
 #### General-Purpose Machine Learning
